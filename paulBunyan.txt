@@ -1,0 +1,23 @@
+Enter the trees: 
+Number of remaining trees: 870 
+Number of remaining trees: 756 
+Number of remaining trees: 657 
+Number of remaining trees: 571 
+Number of remaining trees: 496 
+Number of remaining trees: 431 
+Number of remaining trees: 374 
+Number of remaining trees: 325 
+Number of remaining trees: 282 
+Number of remaining trees: 245 
+Number of remaining trees: 213 
+Number of remaining trees: 185 
+Number of remaining trees: 160 
+Number of remaining trees: 139 
+Number of remaining trees: 120 
+Number of remaining trees: 104 
+Number of remaining trees: 90 
+Number of remaining trees: 78 
+Number of remaining trees: 67 
+Number of remaining trees: 58 
+Number of remaining trees: 50 
+Number of years is: 22 

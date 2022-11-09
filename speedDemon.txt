@@ -1,0 +1,5 @@
+Enter the speed limit: 4 
+Enter clocked speed: 2 
+How many tickets have you received in the last year? 3 
+
+Your are not fined :)Your license is not suspended :)You are fined: $238.00Your license is not suspended

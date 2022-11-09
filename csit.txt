@@ -1,0 +1,22 @@
+WAGER           WON             LOSS            STASH          
+------          -----           ----            -----          
+Starting Stash                                  2000.000000    
+Win!            500.000000                      2500.000000    
+Loss!                           1500.000000     1000.000000    
+Loss!                           500.000000      500.000000     
+Win!            100.000000                      600.000000     
+Win!            600.000000                      1200.000000    
+Loss!                           300.000000      900.000000     
+Win!            50.000000                       950.000000     
+Win!            50.000000                       1000.000000    
+Loss!                           25.000000       975.000000     
+Loss!                           500.000000      475.000000     
+Loss!                           100.000000      375.000000     
+Total number Wins: 5
+Total amount Wins: 1300.000000
+Total number Losses: 6
+Total amount Losses: 2925.000000
+
+Starting Stash: 2000.000000
+Total payoff charge: 276.250000
+Closing Stash: 98.750000
